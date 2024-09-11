@@ -1,25 +1,19 @@
+
+
 <!DOCTYPE HTML>
 
 <html>
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Ovidiun Customs&mdash; Free Website Template, Free HTML5 Template by gettemplates.co</title>
+	<title>Ovidiun Customs &mdash; We build brands</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by gettemplates.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
 	<meta name="author" content="gettemplates.co" />
 
   	<!-- Facebook and Twitter integration -->
-	<meta property="og:title" content=""/>
-	<meta property="og:image" content=""/>
-	<meta property="og:url" content=""/>
-	<meta property="og:site_name" content=""/>
-	<meta property="og:description" content=""/>
-	<meta name="twitter:title" content="" />
-	<meta name="twitter:image" content="" />
-	<meta name="twitter:url" content="" />
-	<meta name="twitter:card" content="" />
+	
 
 	<!-- <link href="https://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet"> -->
 	
@@ -60,7 +54,7 @@
 			<div class="row">
 				<div class="col-md-12 text-right gtco-contact">
 					<ul class="">
-						<li><a href="#"><i class="ti-mobile"></i> +1 (0)123 456 7890 </a></li>
+						<li><a href="#"><i class="ti-mobile"></i> +(254)7 22 894 497</a></li>
 						<li><a href="http://twitter.com/gettemplatesco"><i class="ti-twitter-alt"></i> </a></li>
 						<li><a href="#"><i class="icon-mail2"></i></a></li>
 						<li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -69,11 +63,11 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12">
-					<div id="gtco-logo"><a href="index.html">Aesthetic <em>.</em></a></div>
+					<div id="gtco-logo"><a href="index.html">Ovidiun Customs <em>.</em></a></div>
 				</div>
 				<div class="col-xs-8 text-right menu-1">
 					<ul>
-						<li class="active"><a href="{{url('index')}}">Home</a></li>
+						<li class="active"><a href="{{url('')}}">Home</a></li>
 						<li><a href="{{url('about')}}">About</a></li>
 						<li class="has-dropdown">
 							<a href="{{url('services')}}">Services</a>
@@ -85,16 +79,16 @@
 							</ul>
 						</li>
 						<li class="has-dropdown">
-							<a href="#">Dropdown</a>
+							<a href="#">Customizable items</a>
 							<ul class="dropdown">
-								<li><a href="#">HTML5</a></li>
-								<li><a href="#">CSS3</a></li>
-								<li><a href="#">Sass</a></li>
-								<li><a href="#">jQuery</a></li>
+								<li><a href="#">Branded t-shirts</a></li>
+								<li><a href="#">Mugs</a></li>
+								<li><a href="#">Wrist bands</a></li>
+								<li><a href="#">Accessories</a></li>
 							</ul>
 						</li>
 						<li><a href="{{url('portfolio')}}">Portfolio</a></li>
-						<li><a href=>Contact</a></li>
+						<li><a href="{{url('contact')}}">Contact</a></li>
 					</ul>
 				</div>
 			</div>
